@@ -1,5 +1,13 @@
 *.class
-
+*~
+.buildpath
+.project
+.settings
+.classpath
+.metadata
+.DS_Store
+target
+test-output
 # Package Files #
 *.jar
 *.war
